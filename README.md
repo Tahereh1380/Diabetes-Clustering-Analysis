@@ -1,8 +1,8 @@
-\Pima Indians Diabetes — Clustering Analysis
+**Pima Indians Diabetes — Clustering Analysis**
 
 
 
-\## Overview
+**Overview**
 
 
 
@@ -14,7 +14,7 @@ The project was developed as part of a Data Mining course assignment.
 
 
 
-\## Dataset
+**Dataset**
 
 
 
@@ -38,7 +38,7 @@ The `Outcome` variable is used to compare clustering results with the known labe
 
 
 
-\## Project Structure
+**Project Structure**
 
 
 
@@ -60,11 +60,11 @@ The `Outcome` variable is used to compare clustering results with the known labe
 
 
 
-\## Methodology
+**Methodology**
 
 
 
-\### 1. Exploratory Data Analysis
+ *1. Exploratory Data Analysis*
 
 \- Dataset structure, data types, and descriptive statistics
 
@@ -78,7 +78,7 @@ The `Outcome` variable is used to compare clustering results with the known labe
 
 
 
-\### 2. Data Preprocessing
+ *2. Data Preprocessing*
 
 \- Treatment of zero values in selected medical measurements
 
@@ -90,7 +90,7 @@ The `Outcome` variable is used to compare clustering results with the known labe
 
 
 
-\### 3. Dimensionality Reduction
+ *3. Dimensionality Reduction*
 
 \- Principal Component Analysis (PCA)
 
@@ -98,7 +98,7 @@ The `Outcome` variable is used to compare clustering results with the known labe
 
 
 
-\### 4. Clustering Algorithms
+ *4. Clustering Algorithms*
 
 The project explores and compares the following methods:
 
@@ -118,7 +118,7 @@ The project explores and compares the following methods:
 
 
 
-\### 5. Evaluation
+ *5. Evaluation*
 
 Clustering performance is examined using internal evaluation metrics, including:
 
@@ -136,7 +136,7 @@ Where applicable, cluster assignments are also compared with the known `Outcome`
 
 
 
-\## Technologies
+ *Technologies*
 
 
 
@@ -156,7 +156,7 @@ Where applicable, cluster assignments are also compared with the known `Outcome`
 
 
 
-\## Installation
+ *Installation*
 
 
 
@@ -172,7 +172,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy minisom scikit-fu
 
 
 
-\## How to Run
+**How to Run**
 
 
 
@@ -200,7 +200,7 @@ pd.read\_csv("diabetes.csv")
 
 
 
-\## Notes and Limitations
+**Notes and Limitations**
 
 
 
@@ -214,7 +214,7 @@ pd.read\_csv("diabetes.csv")
 
 
 
-\## Purpose
+*Purpose*
 
 
 
