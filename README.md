@@ -1,4 +1,4 @@
-\# Pima Indians Diabetes — Clustering Analysis
+\Pima Indians Diabetes — Clustering Analysis
 
 
 
